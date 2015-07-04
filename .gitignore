@@ -11,3 +11,8 @@
 /log/*
 !/log/.keep
 /tmp
+*.iml
+.fuse*
+
+# Ignore this folders
+.idea
